@@ -1,4 +1,4 @@
-# Calcul Mental – Devoir Kotlin
+# Calcul Mental – Kotlin
 
 Ce projet est un petit jeu console développé en Kotlin dans le cadre de la formation DWWM.  
 L’objectif est de répondre à des questions de calcul mental en fonction de différents niveaux.
